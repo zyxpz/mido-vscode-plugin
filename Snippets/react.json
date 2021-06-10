@@ -1,0 +1,23 @@
+{
+  "rt": {
+    "prefix": "midoRt",
+    "body": [
+      "import React from 'react'",
+      "\r",
+      "const $1 = (props) => {",
+      "\tconst {",
+      "\t\t$2",
+      "\t} = props;",
+      "\r",
+      "\treturn (",
+      "\t\t<div>example</div>",
+      "\t)",
+      "}",
+      "\r",
+      "${1:Example}.defaultProps = {};",
+      "\r",
+      "export default ${1:Example};"
+    ],
+    "description": "react模板"
+  }
+}
